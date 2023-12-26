@@ -1,4 +1,4 @@
-# LP-Two-Project
+# LP-Two-Project - CUSTOMER CHURN - An Analysis For Vodafone
 # INTRODUCTION
 Customer retention is an integral aspect of every business, and this strategy focuses on maintaining existing customers. Today businesses depend on machine learning to predict if a customer will be retained or lost, this enables business owners to plan as to how to keep their existing customers and lure new customers.
 In other to predict if customers will churn or not, a supervised learning approach known as Classification comes to play as it enables stakeholders to predict the future of the business ahead of time.
