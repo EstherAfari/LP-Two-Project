@@ -1,4 +1,4 @@
-# LP-Two-Project - CUSTOMER CHURN - An Analysis For Vodafone
+# LP-Two-Project - Machine Learning: Customer Churn Classification Project
 
 ![CHURN](https://github.com/EstherAfari/LP-Two-Project/assets/149049430/b7c89010-4a1d-4300-ba30-07737b411d68)
 
