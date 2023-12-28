@@ -65,7 +65,13 @@ To address the unequalness of the datasets, random sampler was used to balance t
 
 # FINDINGS AND INSIGHT 
 After the feature selection and hyperparameter tuning was done, the model with the best performing ability was the Logistic Regression model with an AUC-ROC score of 0.85. This model was then used to perform prediction on the on the Test data, the outcome was out of 1497 customers the model predicted that 839 customers will churn.
-The management will have to concentrate on measures to put in place to retain the customers predicted to churn.
+
+We advise the business to utilize the logistic regression model to pinpoint the clients who are most likely to leave and put retention plans in place, based on the knowledge gained from the research. Some customer retention ideas include providing clients with special offers, discounts, or customized services.
+
+
+
+
+
 
 
 
