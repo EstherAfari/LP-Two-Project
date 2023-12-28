@@ -64,7 +64,7 @@ Out of the three, two datasets were concatenated, separated into features and ta
 To address the unequalness of the datasets, random sampler was used to balance the dataset. To make the model work better feature selection was used to select the best feature model and hyperparameter tuning was implemented on the best performing model. To select the best performing model, we used the F1 score and the AUC-ROC curve.
 
 # FINDINGS AND INSIGHT 
-After the feature selection and hyperparameter tuning was done, the model with the best performing ability was the Logistic Regression model with an AUC-ROC score of 0.85. This model was then used to perform prediction on the on the Test data, the outcome was out of 1497 customers the model predicted that customers will churn.
+After the feature selection and hyperparameter tuning was done, the model with the best performing ability was the Logistic Regression model with an AUC-ROC score of 0.85. This model was then used to perform prediction on the on the Test data, the outcome was out of 1497 customers the model predicted that 839 customers will churn.
 The management will have to concentrate on measures to put in place to retain the customers predicted to churn.
 
 
